@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 99vh;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.content{
+ width: 50%;
+ margin: 0 auto;
+}
+
+canvas{
+    max-width: 99%;
+}
